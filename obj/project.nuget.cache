@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/7zmWUCBrDQU9iqeRQq68rKX437xtAcVCyzEXYtFVbwpvexun44fz0lgykmWpNNrcJIV1mthzmFY5ncqntvZQ==",
+  "success": true,
+  "projectFilePath": "/Users/luisgodinez/Brick/demomvc/demomvc.csproj",
+  "expectedPackageFiles": [
+    "/Users/luisgodinez/.nuget/packages/system.data.sqlite/1.0.112/system.data.sqlite.1.0.112.nupkg.sha512",
+    "/Users/luisgodinez/.nuget/packages/system.data.sqlite.core/1.0.112/system.data.sqlite.core.1.0.112.nupkg.sha512"
+  ],
+  "logs": []
+}
